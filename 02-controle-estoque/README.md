@@ -24,7 +24,7 @@ Implementamos o `toString()` na classe `Product` para que, ao dar um `System.out
 ---
 
 ## 🖥️ Resultado da Execução
-Aqui está o sistema funcionando no console (Eclipse Dark Mode):
+Aqui está o sistema funcionando no console (Eclipse):
 
 ![Resultado do Exercício](assets/resultado.png)
 
