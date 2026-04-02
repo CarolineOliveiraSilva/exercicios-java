@@ -16,7 +16,7 @@ Repositório dedicado ao estudo e prática de **Programação Orientada a Objeto
 | Ordem | Exercício | Tópicos Abordados | Status |
 | :--- | :--- | :--- | :---: |
 | 01 | [Cálculo de Área de Triângulo](./01-area-triangulo) | Classes, Atributos, Métodos, POO | ✅ |
-
+| 02 | [Controle de Estoque](./02-controle-estoque) | Métodos, `this`, `toString`, Encapsulamento | ✅ |
 
 ---
 
