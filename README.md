@@ -1,6 +1,6 @@
 # ☕ Exercícios de Java (POO)
 
-Repositório dedicado ao estudo e prática de **Programação Orientada a Objetos** com a linguagem Java. Aqui registro minha evolução acadêmica em Análise e Desenvolvimento de Sistemas.
+Repositório dedicado ao estudo e prática de **Programação Orientada a Objetos** com a linguagem Java. 
 
 ---
 
