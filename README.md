@@ -36,9 +36,10 @@ Repositório dedicado ao estudo contínuo e prático da linguagem Java. Este esp
 | 09 | [Navegação em Matriz 2D](./06-estruturas-de-dados/src/EstudosArray) | Arrays Bidimensionais, Varredura, Limites | Concluído |
 
 ### Módulo 4: Avançando no Back-end
-*(Novos exercícios e implementações futuras de persistência de dados, tratamento de exceções e testes serão catalogados aqui).*
 
----
+| Ordem | Exercício | Tópicos Abordados | Status |
+| :---: | :--- | :--- | :---: |
+| 10 | [Sistema de Gestão de Contratos](./07-worker-contract-system) | Composição de Objetos, Enumerações, Manipulação de Datas | Concluído |
 
 ## Como executar localmente
 
